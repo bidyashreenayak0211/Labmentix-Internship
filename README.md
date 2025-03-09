@@ -1,4 +1,4 @@
-# Labmentix Business Analyst Internship - README
+# Labmentix Business Analyst Internship
 
 ## Overview
 Welcome to the Labmentix Business Analyst Internship! This README provides an overview of the tasks assigned during the internship, including exploratory data analysis (EDA) for Glassdoor job postings and Amazon Prime TV shows and movies.
